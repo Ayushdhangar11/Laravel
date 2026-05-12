@@ -1,0 +1,1 @@
+<h1>Welcome to the Laravel 10.x form Handling</h1>
